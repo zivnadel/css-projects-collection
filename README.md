@@ -1,7 +1,9 @@
 # css-projects-collection
 
 This repository contains a few of the project I made while enhancing my basic-CSS skills, using technologies like Flexbox and Grid System, responsive layouts and media-queries, css animations (keyframes, transitions and more) and Sass.
+
 The websites in this repo are constructed from simple HTML pages, and the focus is the styling. You can easily run each site by downloading it files and opening the `index.html` file via the browser.
+
 Each project in this collection is presented as a sub-folder to this repository, a list of the projects (containing details) can be found below:
 
 ## Hotel Website
