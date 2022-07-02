@@ -1,0 +1,72 @@
+/* Styling Sheet for mobile devices */
+/* Imported with the usage of media attribute */
+
+/* Navbar */
+
+#navbar {
+  overflow: none;
+  padding: 5px;
+}
+
+#navbar .logo,
+#navbar ul li a {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul li a {
+  padding: 7px 0;
+  border-bottom: #444 dotted 1px;
+}
+
+/* Showcase Section */
+
+#showcase-content {
+    height: 100%;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+/* Home Info Section */
+
+#home-info {
+  max-height: 550px;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+/* Boxes */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About Info */
+
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right {
+  margin-top: 30px;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+/* Contact */
+
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
