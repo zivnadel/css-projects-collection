@@ -12,14 +12,14 @@ Each project in this collection is presented as a sub-folder to this repository,
 This site is using very basic technologies to create a responsive and modern-looking website. The site if fully responsive and fits mobile devices.
 
 ### Site Preview
-![Hotel Website main page preview](https://user-images.githubusercontent.com/52624380/177014912-dfa0a9e1-199a-4144-9673-d5178bf3ff7a.png)
+![Hotel Website Preview](https://user-images.githubusercontent.com/52624380/187045373-6833a9b3-2a21-4ea4-ae3c-4091ea967d52.png)
 
 ## EasyFinance Website
 This site represents a company's website, and also a small blog. It uses technologies like Flexbox and a little bit of animations combined with JavaScript code snippets.
 There are a few sections and boxes in the main page that uses the Flexbox system for allignment and positioning. The site if fully responsive and fits mobile devices.
 
 ### Site Preview
-![EasyFinance site preview](https://user-images.githubusercontent.com/52624380/177393179-5d04117f-cb04-497d-a38d-fe586a1abfab.png)
+![EasyFinance site preview](https://user-images.githubusercontent.com/52624380/187045406-5d892ffc-1423-4a4a-83d1-c73de8b4bd6a.png)
 
 ## TopNews Website
 This site represents a news-dashboard website, containing topics like sports, entertainment and tech. It was created while learning grid-system in CSS, and contains many usecases for it. The site if fully responsive and fits mobile devices.
